@@ -1,6 +1,6 @@
 print "suman sonam"
 print"pratiksha tejaswi"
 print"anjali reshma"
-print "suman suman"
+prinnt "suman suman"
 print "jaiswal"
 print "i am tired please stop"
