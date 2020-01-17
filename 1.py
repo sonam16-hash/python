@@ -1,6 +1,2 @@
 print "suman sonam"
-print"pratiksha tejaswi"
-print"anjali reshma"
-print "jaiswal"
-print "i am tired please stop"
-print "hi"
+
